@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="60"><description>Implementieren Sie die Methode "String stringSplosion(String str)".
+gegeben sei ein nicht leerer String, die Methode gibt alle Substrings vom gegebenen String.
+
+Beispiel:
+stringSplosion("Wax") &#x2192; "WWaWax"
+stringSplosion("xy") &#x2192; "xxy"
+stringSplosion("Code") &#x2192; "CCoCodCode"</description><title>stringSplosion</title><code_prefix>public class Number2 {</code_prefix><code_suffix>}</code_suffix><class_name>Number2</class_name><test_file>stringSplosionTest</test_file></task>

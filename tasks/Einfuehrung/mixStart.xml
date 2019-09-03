@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="25"><description>Definieren Sie eine Methode "public boolean mixStart(String str)"
+es wird true geliefert, wenn die angegebene Zeichenkette mit "mix" beginnt, außer dass das 'm' alles sein kann, also "pix", "9ix"....</description><title>mixStart</title><code_prefix>public class Number {</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>mixStartTest</test_file></task>

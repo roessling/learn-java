@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="62"><description>Implementieren Sie die Methode "String stringYak(String str)".
+Angenommen der String "yak" bedeutet Pech. Die Methode löscht alle Substrings "yak" im gegebenen String, wo das Charakter "a" beliebig sein kann.
+Die "yak"-Strings überschneiden sich nicht.
+Beispiel:
+stringYak("yakTUDya") &#x2192; "TUDya"
+</description><title>stringYak</title><code_prefix>public class Number2 {</code_prefix><code_suffix>}</code_suffix><class_name>Number2</class_name><test_file>stringYakTest</test_file></task>

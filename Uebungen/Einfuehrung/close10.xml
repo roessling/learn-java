@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="28"><description>Bei 2 int Werten geben Sie den Wert zurück, der dem Wert 10 am nächsten liegt, oder geben Sie 0 zurück, wenn es zu einer Verbindung kommt. Beachten Sie, dass Math.abs(n) den Absolutwert einer Zahl zurückgibt.
+
+Beachten Sie, dass Math.abs(n) den Absolutwert einer Zahl zurückgibt.</description><title>close10</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>close10Test</test_file></task>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="27"><description>Definieren Sie die Methode "Max(int a, int b, int c)", bei der der größte Wert zurückgegeben wird.</description><title>intMax</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>intMaxTest</test_file></task>

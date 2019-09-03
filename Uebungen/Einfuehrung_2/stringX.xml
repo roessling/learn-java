@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="61"><description>Implementieren Sie die Methode "String stringX(String str)".
+Die Methode entfernt alle "x" im gegebenen String außer am Anfang oder am Ende.
+
+Beispiel:
+stringX("abxxxcdx") &#x2192; "abcdx"</description><title>stringX</title><code_prefix>public class Number2 {</code_prefix><code_suffix>}</code_suffix><class_name>Number2</class_name><test_file>stringXTest</test_file></task>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="18"><description>Schreiben eine Methode "or35(int n)", die True zurückgibt, wenn die gegebene nichtnegative Zahl ein Vielfaches von 3 oder 5 ist.
+Sie können den Operator % "mod" verwende.</description><title>or35</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>or35Test</test_file></task>

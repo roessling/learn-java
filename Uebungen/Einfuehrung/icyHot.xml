@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="21"><description>Gegeben sind zwei Temperaturen von Typ int. Die Methode "icyHot(int temp1, int temp2)" gibt true zurück, wenn einer kleiner als 0 und der andere größer als 100 ist.</description><title>icyHot</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>icyHotTest</test_file></task>

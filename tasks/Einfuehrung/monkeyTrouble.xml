@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="36"><description>Wir haben zwei Affen, a und b, und die Parameter aSmile und bSmile zeigen an, ob jeder einzelne lächelt. Wir sind in Schwierigkeiten, wenn sie beide lächeln oder wenn keiner von ihnen lächelt. Geben Sie true zurück, wenn wir in Schwierigkeiten sind.
+Definieren Sie dafür eine Methode "boolean monkeyTrouble(boolean aSmile, boolean bSmile)"
+</description><title>monkeyTrouble</title><code_prefix>public class Number {</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>monkeyTroubleTest</test_file></task>

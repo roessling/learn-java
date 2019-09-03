@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="19"><description>Die Methode "front22(String str)" soll folgendes tun:
+Bei einem String nehmen Sie die ersten 2 Zeichen und geben Sie einen String zurück, wobei die 2 Zeichen sowohl vorne als auch hinten hinzugefügt werden, so dass "Kitten" "Kikittenki" ergibt. 
+Wenn der String kleiner als 2 ist, verwenden Sie den vorhandenen String.</description><title>front22</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>front22Test</test_file></task>

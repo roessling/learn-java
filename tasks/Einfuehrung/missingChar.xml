@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="14"><description>Gegeben ist ein nicht leerer String und ein Integer n. Die Methode soll einen String zurückgeben, wo der Buchstabe an der Position n gelöscht  wurde. "n" muss einen validen Index im ursprunglichen String sein. (das heißt, n ist zwischen 0 und string.length()-1)
+
+"public String missingChar(String str, int n)"</description><title>missingChar</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>MissingCharTest</test_file></task>

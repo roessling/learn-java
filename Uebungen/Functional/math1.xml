@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="42"><description>Schreiben Sie eine Methode "public List&lt;Integer&gt; math1(List&lt;Integer&gt; nums)", die eine Liste von Integer zurückgibt.
+die Methode soll jedes Element  der  Liste 1 addieren und das Ergebnis mit 10 multiplizieren.
+Hinweis 1: Sie können "%" verwenden.
+Hinweis 2: Sie können auch Stream verwenden.
+
+z.B: math1([10]) &#x2192; [110]</description><title>math1</title><code_prefix>import java.util.List;
+import java.util.stream.Collectors;
+
+public class FunctionalClass {</code_prefix><code_suffix>}</code_suffix><class_name>FunctionalClass</class_name><test_file>math1_Test</test_file></task>

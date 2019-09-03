@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<kbarticle><title>Initialisierung</title><text>Mit der Initialisierung wird der Variable der erste Wert zugewiesen. Vor der Initialisierung darf die Variable nicht verwendet werden. Die Initialisierung einer lokalen Variable stellt sicher, dass diese Variable immer einen Wert hat. Vor der Initialisierung ist der Wert einer Variablen nicht definiert. Anders als Attribute oder Klassenvariablen werden diese nämlich nicht automatisch auf einen Standardwert initialisiert.
+
+class Example {
+  int a;				// das Attribut ist automatisch auf den Standardwert initialisiert - hier 0.
+  void example() {
+    int b;				// die Variable ist deklariert, aber noch nicht initialisiert
+    System.out.println(b)	// hier entsteht ein Fehler, da b verwendet wird, bevor es initialisiert wurde
+    b = 1;				// b wird initialisiert und hat jetzt den Wert 1
+    System.out.println(b)	// dieser Aufruf ist erlaubt, da b initialisiert wurde
+    b = 2;				// der Wert von b lässt sich natürlich nachträglich ändern
+    int c = 1;			// Deklaration und Initialisierung sind in einem Schritt möglich
+    int d = a;			// das Attribut a lässt sich ohne Initialisierung verwenden
+  }
+}</text><keywords><keyword>initialisiert</keyword><keyword>initialisieren</keyword><keyword>Initialisierung</keyword></keywords></kbarticle>

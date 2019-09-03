@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="17"><description>Die Methode "backAround(String str)" soll einen String zurückgeben.
+Der letzte Buchstabe von gegebenen String soll am Anfand und am Ende diesem String hinzugefügt. "bit" soll "tbitt" ergeben.
+Am Ende wird der ursprüngliche String Länge 1 oder mehr sein.</description><title>backAround</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>backAroundTest</test_file></task>

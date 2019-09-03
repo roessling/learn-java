@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="11"><description>Gegeben ist ein Wert von Typ int. es wird true zurückgegeben, wenn es innerhalb 10 von 100 oder 200 liegt.
+Die Methode soll "nearHundred(int n)" heißen.
+Hinweis: Math.abs(num) wird der Absolute Wert einer Zahl berechnet.</description><title>nearHundred</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>NearHundredTest</test_file></task>

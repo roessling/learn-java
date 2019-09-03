@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="59"><description>Implementieren Sie die Methode "int stringMatch(String a, String b)".
+Gegeben seien 2 Strings a und b, die Mehtode gibt die Anzahl der Positionen, an denen sie die gleiche Substrings haben. Der Substring hat die Länge 2.
+Die Strings "xxcaazz" and "xxbaaz" ergeben 3, da die Substrings "xx", "aa" und "az" an der gleichen Positionen erscheinen.
+
+Beispiel:
+stringMatch("xxcaazz", "xxbaaz") &#x2192; 3
+stringMatch("abc", "abc") &#x2192; 2
+stringMatch("abc", "axc") &#x2192; 0</description><title>stringMatch</title><code_prefix>public class Number2 {</code_prefix><code_suffix>}</code_suffix><class_name>Number2</class_name><test_file>stringMatchTest</test_file></task>

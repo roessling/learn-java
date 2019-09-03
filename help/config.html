@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Konfiguration</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<h1> Konfiguration </h1>
+<p> Die Konfiguration des Programmes muss vorgenommen werden, wenn es erstmalig auf einem Ger&auml;t ausgef&uuml;hrt wird.
+Nach dem erstmaligen Start des Programmes wird eine leere Konfigurationsdatei erzeugt.
+Um diese mit den richtigen Werten zu f&uuml;llen, werden Sie aufgefordert, zwei Pfade einzugeben. </p>
+<img src="img/config_empty.jpg" />
+<h4> JDK </h4>
+<p> Der erste Pfad f&uuml;hrt zum JDK-Ordner.
+Das JDK (Java Development Kit) muss hierf&uuml;r installiert sein.
+Sollten Sie kein JDK installiert haben oder Ihr JDK &auml;lter als Version 1.8.0_131 sein, funktioniert das Programm nicht oder nur teilweise.
+Herunterladen k&ouml;nnen Sie das JDK auf <a href="http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html" target="_blank">dieser Seite</a>.
+Sollte sich der Link nicht &ouml;ffnen, benutzen Sie Rechtsklick -> "Link in Zwischenablage kopieren" und &ouml;ffnen Sie die Seite in Ihrem Browser, indem Sie den Link dort in die Adresszeile einf&uuml;gen. </p>
+<p> Sobald das JDK installiert ist, tragen Sie den Ordner in das entsprechende Feld ein.
+Daf&uuml;r k&ouml;nnen Sie entweder den Installationspfad kopieren und einf&uuml;gen, oder Sie verwenden den Knopf "Durchsuchen...", um einen Dateibrowser zu &ouml;ffnen.
+Unter Windows mit der 64bit-Version des JDK 1.8.0_131 sieht der Pfad wie folgt aus. </p>
+<img src="img/config_jdk.jpg" />
+<p> Achten Sie darauf, dass der angegebene Ordner die Unterordner "bin" und "jre" enth&auml;lt.
+Es ist nicht ausreichend, auf den Ordner "Java" zu verweisen.
+Eine entsprechende Fehlermeldung erscheint im Reiter "Compiler" des Programms, wenn Sie versuchen, ein Programm zu &uuml;bersetzen, ohne dass der JDK-Pfad korrekt gesetzt ist. </p>
+<h4> JUnit </h4>
+<p> Der zweite Pfad f&uuml;hrt zu einer .jar-Datei, die die JUnit-Bibliothek enth&auml;lt.
+Diese Datei wird typischerweise mit dem Programm heruntergeladen und muss nur noch verlinkt werden.
+Angenommen, Sie haben das Programm unter Windows in den Ordner C:\Programme (x86)\JavaAufgaben\ entpackt, so w&uuml;rde der Pfad zu JUnit so aussehen. </p>
+<img src="img/config_junit.jpg" />
+<p> JUnit wird f&uuml;r die Kompilierung und Ausf&uuml;hrung der Tests ben&ouml;tigt.
+Das Programm wurde mit JUnit Version 4.12 entworfen und getestet.
+Abweichungen der Funktionalit&auml;t bei anderen Versionen sind m&ouml;glich. </p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</body>
+</html>

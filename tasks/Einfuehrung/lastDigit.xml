@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="32"><description>Bei zwei nicht-negativen Werten gibt man true zurück, wenn sie die gleiche letzte Ziffer haben, wie bei 27 und 57. 
+Beachten Sie, dass der % "mod"-Operator Reste berechnet, so dass "17 % 10" gleich 7 ist.
+Definieren Sie dafür die Methode "lastDigit(int a, int b)".</description><title>lastDigit</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>lastDigitTest</test_file></task>

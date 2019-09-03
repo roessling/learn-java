@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="34"><description>Bei einer nicht leeren Zeichenkette und einem Wert N von Typ int, geben Sie die Zeichenkette zurück, die mit Zeichen 0 beginnt, und dann jedes N-te Zeichen der Zeichenkette.
+ Wenn also N gleich 3 ist, geben Sie die Zeichen an Positionen 0, 3, 6 und so weiter. N ist 1 oder mehr.
+Definieren Sie dafür die Methode "public String everyNth(String str, int n)".</description><title>everyNth</title><code_prefix>public class Number {</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>everyNthTest</test_file></task>

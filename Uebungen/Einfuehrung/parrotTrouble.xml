@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="9"><description>Schreiben Sie eine Methode "public boolean parrotTrouble(boolean talking, int hour)". 
+
+Wir haben einen lauten sprechenden Papagei. Der Parameter "Stunde" ist die aktuelle Stunde Zeit im Bereich von 0..23. Wir sind in Schwierigkeiten, wenn der Papagei spricht und die Stunde vor 7 oder nach 20 ist. Geben Sie true, wenn wir in Schwierigkeiten sind.
+</description><title>parrotTrouble</title><code_prefix>public class Number {</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>parrotTroubleTest</test_file></task>

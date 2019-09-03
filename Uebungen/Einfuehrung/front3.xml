@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="16"><description>Gegeben ist ein String und die Methode "front3(String str)" soll einen Stirng zurückgeben.
+
+Wenn die Länge des Strings kleiner als 3 ist, wird diesen String dreimal zurückgegeben.
+Ansonsten wird die drei ersten Buchstaben des Strings dreimal zurückgegeben.</description><title>front3</title><code_prefix>public class Number{</code_prefix><code_suffix>}	</code_suffix><class_name>Number</class_name><test_file>front3Test</test_file></task>

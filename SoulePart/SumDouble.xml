@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="2"><description>Given two int values, return their sum. Unless the two values are
+ the same, then return double their sum.</description><title>SumDouble</title><code_prefix>public class Number{
+
+public int sumDouble(int a,int b){</code_prefix><code_suffix>}
+}</code_suffix><class_name>Number</class_name><test_file>SumDoubleTest</test_file></task>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="40"><description>Gegeben sei eine Liste von String "strings".
+Die Methode "public List&lt;String&gt; copies3(List&lt;String&gt; strings)" soll eine Liste von String, in der jedes Element der Liste mit 3 Kopien dieses Strings ersetzt wird.
+Sie können auch stream verwenden.
+
+z.B:  copies3(["a", "b"]) &#x2192; ["aaa", "bbb"]</description><title>copies3</title><code_prefix>import java.util.List;
+import java.util.stream.Collectors;
+
+public class FunctionalClass {</code_prefix><code_suffix>}</code_suffix><class_name>FunctionalClass</class_name><test_file>copies3_Test</test_file></task>

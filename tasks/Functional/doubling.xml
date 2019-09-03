@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="37"><description>Gegeben sei eine Liste von ganzen Zahlen (Integer). 
+Sie müssen eine Methode schreiben, die eine Liste, bei der jede ganze Zahl mit 2 multipliziert wird, zurückgibt.
+Sie können auch stream verwenden.
+
+z.B:  doubling([1, 4, 2]) &#x2192; [2, 8, 4]</description><title>doubling</title><code_prefix>import java.util.List;
+import java.util.stream.Collectors;
+public class FunctionalClass {
+
+</code_prefix><code_suffix>}</code_suffix><class_name>FunctionalClass</class_name><test_file>doublingTest</test_file></task>

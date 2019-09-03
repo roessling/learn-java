@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="23"><description>Wir werden sagen, dass eine Zahl "teen" ist, wenn sie im Bereich [13,19] einschließlich liegt. 
+Gegeben sind 3 Werten von Typ int. Geben Sie true zurück, wenn 1 oder mehr von ihnen teen sind. 
+Die Methode heißt "public boolean hasTeen(int a, int b, int c)".</description><title>hasTeen</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>hasTeenTest</test_file></task>

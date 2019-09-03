@@ -1,0 +1,17 @@
+.button {
+	-fx-alignment: bottom-right;
+}
+
+.button:hover {
+	-fx-alignment: top-center;
+	-fx-underline: true;
+}
+
+.button:armed {
+	-fx-text-fill: #dd4455;
+}
+
+.text-field {
+	-fx-font: italic 20 monospace;
+}
+

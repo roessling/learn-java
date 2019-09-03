@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="33"><description>Geben Sie bei einer Zeichenkette eine neue Zeichenkette zurück, wobei die letzten 3 Zeichen nun in Großbuchstaben vorliegen. Wenn die Zeichenkette weniger als 3 Zeichen hat, wird die Großbuchstaben, was auch immer da ist.
+Beachten Sie, dass str.toUpperCase() die Großbuchstaben einer Zeichenkette zurückgibt.
+Definieren Sie dafür die Methode "public String endUp(String str)".</description><title>endUp</title><code_prefix>public class Number {</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>endUpTest</test_file></task>

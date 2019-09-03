@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="41"><description>Sie sollen eine Methode "List&lt;String&gt; moreY(List&lt;String&gt; strings)" schreiben.
+Die Methode gibt eine Liste von String zurück, in der jeder String "y" am Anfang und am  Ende hinzugefügt wird.
+Sie können auch "java stream" verwenden.
+
+z.B: moreY(["ya"]) &#x2192; ["yyay"]</description><title>moreY</title><code_prefix>import java.util.List;
+import java.util.stream.Collectors;
+
+public class FunctionalClass {</code_prefix><code_suffix>}</code_suffix><class_name>FunctionalClass</class_name><test_file>moreYTest</test_file></task>

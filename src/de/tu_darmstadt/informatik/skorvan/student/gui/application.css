@@ -1,0 +1,51 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.error {
+    -rtfx-underline-color: red;
+    -rtfx-underline-width: 1px;
+    -rtfx-underline-dash-array: 2 2 3 2;
+}
+
+.warning {
+	-rtfx-underline-color: gold;
+	-rtfx-underline-width: 1px;
+	-rtfx-underline-dash-array: 2 2 3 2;
+}
+
+.borderpane {
+	-fx-background-color: radial-gradient(center 40% 50%, radius 70%, reflect , #ffffff, #e0e0e0) ;
+}
+
+.scroll-pane {
+	-fx-background-color: transparent;
+}
+
+.scroll-pane > .viewport {
+	-fx-background-color: transparent;
+}
+
+.button {
+	-fx-background-color: linear-gradient(to bottom, #e0e0e0, #b0b0b0);
+	-fx-background-radius: .2em;
+}
+
+.button:hover {
+	-fx-background-color: linear-gradient(to bottom, #b0b0b0, #d0d0d0);
+}
+
+.button:armed {
+	-fx-background-color: linear-gradient(to bottom, #a0a0a0, #e0e0e0)
+}
+
+.tab {
+	-fx-background-color: linear-gradient(to bottom, #d0d0d0, #b0b0b0);
+}
+
+.tab:hover {
+	-fx-background-color: linear-gradient(to bottom, #b0b0b0, #d0d0d0);
+}
+
+.tab:selected {
+	-fx-background-color: linear-gradient(to bottom, #cccccc, #ffffff);
+}

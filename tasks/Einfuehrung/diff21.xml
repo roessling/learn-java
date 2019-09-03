@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="8"><description>Schreiben Sie eine Methode "public int diff21(int n)". 
+Gegeben ist ein Integer n. Geben Sie die absolute Differenz zwischen n und 21 wenn n kleiner als 21 ist. Ansonsten geben Sie die Summe dieser Differenz. </description><title>diff21</title><code_prefix>public class Number{	</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>Diff21Test</test_file></task>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="44"><description>Sie sollen eine Methode "List&lt;String&gt; lower(List&lt;String&gt; strings)" schreiben.
+Die Methode gibt eine Liste von String zurück, in der alle Elemente klein geschrieben sind.
+Sie können auch "java stream" verwenden.</description><title>lower</title><code_prefix>import java.util.List;
+import java.util.stream.Collectors;
+
+public class FunctionalClass {</code_prefix><code_suffix>}</code_suffix><class_name>FunctionalClass</class_name><test_file>lowerTest</test_file></task>

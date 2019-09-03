@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="31"><description>Definieren Sie eine Methode "stringE(String str)".
+Es wird true geliefert, wenn die angegebene Zeichenkette (String) das Zeichen 'e' mindestens einmal und maximal dreimal enthält.</description><title>stringE</title><code_prefix>public class Number{</code_prefix><code_suffix>}</code_suffix><class_name>Number</class_name><test_file>stringETest</test_file></task>

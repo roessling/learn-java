@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="49"><description>Implementieren Sie die Methode "int array667(int[] nums)".
+Die Methode gibt die Anzahl von 6er, die im Array nebeneinander stehen.
+Zählen Sie auch Fälle, in denen die zweite "6" tatsächlich 7 ist.
+
+Beispiel:
+array667([3, 6, 6]) &#x2192; 1
+array667([6, 7, 5, 6]) &#x2192; 1</description><title>array667</title><code_prefix>public class Number2 {	</code_prefix><code_suffix>}</code_suffix><class_name>Number2</class_name><test_file>array667Test</test_file></task>

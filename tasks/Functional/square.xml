@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="38"><description>Sie sollen eine Methode List&lt;Integer&gt; square(List&lt;Integer&gt; nums) schreiben.
+Die Methode gibt eine Liste zurück, in der jede ganze Zahl mit sich selbst multipliziert wird.
+Sie können auch stream verwenden.
+
+z.B: square([1, 2, 3]) &#x2192; [1, 4, 9]</description><title>square</title><code_prefix>import java.util.List;
+import java.util.stream.Collectors;
+public class FunctionalClass {</code_prefix><code_suffix>}</code_suffix><class_name>FunctionalClass</class_name><test_file>squareTest</test_file></task>

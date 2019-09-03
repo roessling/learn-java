@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="55"><description>Implementieren Sie die Methode "boolean has271(int[] nums)".
+Es wird true zurückgegeben, wenn es diese Muster (2-7-1) enthält:
+	- Eine Zahl x, gefolgt von einer Zahl "y=x+5" und gefolgt von einer Zahl  "x-1".
+
+Zusätzlich zählt die Reihe "2-7-1", auch wenn die "1" um 2 oder weniger vom richtigen Wert abweicht.
+
+Beispiel:
+has271([1, 2, 7, 1]) &#x2192; true
+has271([3, 8, 2]) &#x2192; true</description><title>has271</title><code_prefix>public class Number2 {</code_prefix><code_suffix>}</code_suffix><class_name>Number2</class_name><test_file>has271Test</test_file></task>

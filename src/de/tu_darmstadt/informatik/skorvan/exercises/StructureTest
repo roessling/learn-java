@@ -1,0 +1,107 @@
+package de.tu_darmstadt.informatik.skorvan.exercises;
+
+import static org.junit.Assert.*;
+
+import java.util.Random;
+
+import org.junit.Test;
+
+public class Diff21Test {
+	
+	public static LinkedList<String> stdoutHistory = new LinkedList<>();
+	public final String SEP = "&";
+	private void feedLinkedlist(Object exp, Object act, Object res){
+		stdoutHistory.add(exp+SEP+act+SEP+res);
+	}
+	@Test
+	public void test1() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test2() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test3() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test4() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test5() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test6() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test7() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test8() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test9() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+
+	@Test
+	public void test10() {
+		Number nber = new Number();
+		int number = new Random().ints(4, 20).findFirst().getAsInt();
+		assertEquals();
+	}
+		@AfterClass
+	public static void ShowResult(){
+		saveTestValues();
+		stdoutHistory.stream().forEach(System.out::println);
+	}
+
+    private static void saveTestValues(){
+    	try {
+    		String tempDir = System.getProperty("java.io.tmpdir");
+            File logfile = new File(tempDir + "/data.txt");
+			BufferedWriter bw = new BufferedWriter(new FileWriter(logfile));
+			for(String str: stdoutHistory){
+				bw.write(str);
+				bw.newLine();
+			}
+			bw.close();
+//			System.out.println("PAth of the created file: "+logfile.getAbsolutePath());
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+    }
+}

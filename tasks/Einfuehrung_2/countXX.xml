@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<task id="52"><description>Implementieren Sie "int countXX(String str)".
+Die Mehtode zählt die Anzahl von "xx" und gitb es zurück. Die Überschneidung wird auch gezählt, also "xxx" wird als 2 "xx" gezählt.
+
+Beispiel:
+countXX("xxxx") &#x2192; 3</description><title>countXX</title><code_prefix>public class Number2{</code_prefix><code_suffix>}</code_suffix><class_name>Number2</class_name><test_file>countXXTest</test_file></task>
